@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julis\\source\\repos\\WebCookie\\WebCookie\\WebCookie.csproj": {}
+    "C:\\Users\\julis\\source\\repos\\ApiWebCookie\\WebCookie\\WebCookie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julis\\source\\repos\\WebCookie\\WebCookie\\WebCookie.csproj": {
+    "C:\\Users\\julis\\source\\repos\\ApiWebCookie\\WebCookie\\WebCookie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julis\\source\\repos\\WebCookie\\WebCookie\\WebCookie.csproj",
+        "projectUniqueName": "C:\\Users\\julis\\source\\repos\\ApiWebCookie\\WebCookie\\WebCookie.csproj",
         "projectName": "WebCookie",
-        "projectPath": "C:\\Users\\julis\\source\\repos\\WebCookie\\WebCookie\\WebCookie.csproj",
+        "projectPath": "C:\\Users\\julis\\source\\repos\\ApiWebCookie\\WebCookie\\WebCookie.csproj",
         "packagesPath": "C:\\Users\\julis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julis\\source\\repos\\WebCookie\\WebCookie\\obj\\",
+        "outputPath": "C:\\Users\\julis\\source\\repos\\ApiWebCookie\\WebCookie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
