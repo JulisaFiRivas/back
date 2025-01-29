@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCookie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1e567cba7a5d91711036f002fe139572a71587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99653238dfabc7101dbfea4ab1851015d590ae1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCookie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCookie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
