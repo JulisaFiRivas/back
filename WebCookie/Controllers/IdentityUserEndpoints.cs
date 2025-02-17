@@ -70,6 +70,7 @@ namespace WebCookie.Controllers
                                     );
                     ClaimsIdentity claims = new ClaimsIdentity(new Claim[]
                     {
+                        //probando cosas 
           new Claim("userID",user.Id.ToString()),
           new Claim(ClaimTypes.Role,roles.First()),
                     });
