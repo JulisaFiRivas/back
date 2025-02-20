@@ -26,6 +26,7 @@ namespace WebCookie.Controllers
                   {
                       Email = userDetails?.Email,
                       FullName = userDetails?.FullName,
+                      Role = userManager.GetRolesAsync(userDetails).Result.FirstOrDefault()
                   });
             }
     }

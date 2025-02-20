@@ -8,5 +8,9 @@ namespace WebCookie.Models
         [PersonalData]
         [Column(TypeName = "nvarchar(150)")]
         public string FullName { get; set; }
+
+        [PersonalData]
+        public DateTime UltimaConexion { get; set; }
+
     }
 }
