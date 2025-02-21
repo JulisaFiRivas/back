@@ -24,7 +24,7 @@ builder.Services.AddDbContext<AppDbContext>(optionsAction: options => options.Us
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
-        builder.WithOrigins("http://localhost:4200").SetIsOriginAllowedToAllowWildcardSubdomains()
+        builder.WithOrigins("https://proyectofrontki-bxg7e4ecbygne0dg.brazilsouth-01.azurewebsites.net").SetIsOriginAllowedToAllowWildcardSubdomains()
         .AllowAnyMethod()
         .AllowAnyHeader());
 });
